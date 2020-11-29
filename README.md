@@ -2,11 +2,11 @@
 
 ### My name is Valentyna:blush:
 
- 📫 How to reach me:
+#### 📫 How to reach me:
 
 <p><a href="mailto:valentynachudik@gmail.com" target="_blank"><img alt="gmail" src="https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white" /></a> <a href="https://github.com/Valentyna-Chudik" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></p>
 
- 🌱My stack and tools:
+#### 🌱 My stack and tools:
 
 <img align="left" alt="HTML5" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" /> 
